@@ -4,7 +4,7 @@
 
 ### Список задач (дополняется):
 - [ ] sort :clock3:
-- [ ] power\_of\_two :pencil2:
-- [ ] reverse\_bits 
+- [ ] power\_of\_two :clock3:
+- [ ] reverse\_bits :pencil2: 
 - [ ] add\_digits
 - [ ] is_palindrome
