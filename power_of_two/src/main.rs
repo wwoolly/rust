@@ -7,11 +7,7 @@ fn is_power_of_two(n: i32) -> bool {
 
     let mut digit = n;
     let mut module = 0;
-    loop {
-        if digit == 1 || digit == 0 {
-            break;
-        }
-        
+    while digit != 1 && digit != 0 {      
         module = digit % 2;
         digit = digit / 2;
     }
