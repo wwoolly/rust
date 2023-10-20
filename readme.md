@@ -3,8 +3,15 @@
 Репозиторий для хранения лабораторных работ по курсу   "Технология разработки программного обеспечения"
 
 ### Список задач (дополняется):
-- [ ] sort :clock3:
-- [ ] power\_of\_two :clock3:
-- [ ] reverse\_bits :pencil: 
-- [ ] add\_digits :clock3:
-- [ ] is_palindrome
+
+#### Раздел 1
+- [x] sort
+- [x] power\_of\_two
+- [ ] reverse\_bits
+- [x] add\_digits
+- [x] is\_palindrome
+
+#### Раздел 2
+- [ ] sort\<T\>
+- [ ] Complex\<T\>
+- [ ] Rectangle\<T\>
