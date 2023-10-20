@@ -1,5 +1,5 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Да уж! {}", is_power_of_two(2));
 }
 
 fn is_power_of_two(n: i32) -> bool {

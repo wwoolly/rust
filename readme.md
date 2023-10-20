@@ -6,5 +6,5 @@
 - [ ] sort :clock3:
 - [ ] power\_of\_two :clock3:
 - [ ] reverse\_bits :pencil: 
-- [ ] add\_digits
+- [ ] add\_digits :clock3:
 - [ ] is_palindrome
