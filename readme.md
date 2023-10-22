@@ -7,7 +7,7 @@
 #### Раздел 1
 - [x] sort
 - [x] power\_of\_two
-- [ ] reverse\_bits
+- [x] reverse\_bits
 - [x] add\_digits
 - [x] is\_palindrome
 
