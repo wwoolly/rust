@@ -1,3 +1,4 @@
 **.lock
 */target/*
-les1.code-workspace
+*.code-workspace
+.vscode/*
