@@ -7,7 +7,7 @@ fn is_power_of_two(n: i32) -> bool {
 
     let mut digit = n;
     let mut module = 0;
-    while digit != 1 && digit != 0 {      
+    while digit != 1 && module == 0 {      
         module = digit % 2;
         digit = digit / 2;
     }
@@ -23,6 +23,26 @@ fn test_is_power_of_two_0() {
 #[test]
 fn test_is_power_of_two_1() {
     assert!(is_power_of_two(1));
+}
+
+#[test]
+fn test_is_power_of_two_5() {
+    assert!(!is_power_of_two(5));
+}
+
+#[test]
+fn test_is_power_of_two_6() {
+    assert!(!is_power_of_two(6));
+}
+
+#[test]
+fn test_is_power_of_two_8() {
+    assert!(is_power_of_two(8));
+}
+
+#[test]
+fn test_is_power_of_two_9() {
+    assert!(!is_power_of_two(9));
 }
 
 #[test]
