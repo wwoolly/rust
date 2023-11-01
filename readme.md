@@ -12,6 +12,6 @@
 - [x] is\_palindrome
 
 #### Раздел 2
-- [ ] sort\<T\>
+- [V] [sort\<T\>](sort_gen)
 - [ ] Complex\<T\>
 - [ ] Rectangle\<T\>
