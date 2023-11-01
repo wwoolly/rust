@@ -12,6 +12,6 @@
 - [x] [is\_palindrome](is_palindrome/src/main.rs)
 
 #### Раздел 2
-- [X] [sort\<T\>](sort_gen)
+- [x] [sort\<T\>](sort_gen/src/main.rs)
 - [ ] Complex\<T\>
 - [ ] Rectangle\<T\>
